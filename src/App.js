@@ -10,7 +10,6 @@ import {
 } from "./containers";
 
 
-
 import { Cta, Brand, Navbar } from "./components";
 
 const App = () => {
