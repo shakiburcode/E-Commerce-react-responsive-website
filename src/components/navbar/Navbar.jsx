@@ -5,6 +5,7 @@ import "./navbar.css";
 
 // BEM --> Block Element Modifier
 
+
 const Menu = () => (
   <>
     <p>
