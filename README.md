@@ -1,5 +1,3 @@
-
-
 # Project description
 
 ## Available Scripts
