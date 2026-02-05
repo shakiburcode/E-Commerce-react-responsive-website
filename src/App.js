@@ -12,7 +12,6 @@ import {
 
 import { Cta, Brand, Navbar } from "./components";
 
-
 const App = () => {
   return (
     <div className="App">
