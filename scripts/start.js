@@ -10,7 +10,7 @@ process.on('unhandledRejection', err => {
   throw err;
 });
 
-// Ensure environment variables are read.
+// Ensure 
 require('../config/env');
 
 
