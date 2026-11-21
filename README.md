@@ -4,6 +4,7 @@
 In the project directory, you can run:
 
 ### `npm start`
+- with proper running code // localhost 5000  
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
